@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CustomPopUpListDialog</string>
+    <!-- Order is important here: -->
+    <string-array name="item_names">
+        <item>\u00A0\u00A0+1 Item 1</item>
+        <item>+45 Item 2</item>
+        <item>+46 Item 3</item>
+        <item>+47 Item 4</item>
+    </string-array>
+
+    <string-array name="item_codes">
+        <item>1</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+    </string-array>
+
+    <string-array name="item_photos">
+        <item>@drawable/usa</item>
+        <item>@drawable/denmark</item>
+        <item>@drawable/sweden</item>
+        <item>@drawable/norway</item>
+    </string-array>
+</resources>
